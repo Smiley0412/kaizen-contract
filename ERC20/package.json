@@ -1,0 +1,13 @@
+{
+  "name": "ERC20",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0",
+    "truffle": "^4.1.14",
+    "truffle-contract": "^1.1.8",
+    "truffle-privatekey-provider": "^0.1.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
